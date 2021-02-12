@@ -10,3 +10,20 @@ CurrentModule = TestPackage
 ```@autodocs
 Modules = [TestPackage]
 ```
+
+# TestPackage
+
+`TestPackage` is a test -- trying to learn the basics of Julia package development.
+
+* 1
+* 2
+
+Check out [Examples](@examples) for a test jupyter notebook example.
+
+## Installation
+
+You can't install this package running
+
+```
+pkg> add TestPackage
+```
