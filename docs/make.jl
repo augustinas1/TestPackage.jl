@@ -19,4 +19,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/augustinas1/TestPackage.jl",
+    devbranch="main"
 )
