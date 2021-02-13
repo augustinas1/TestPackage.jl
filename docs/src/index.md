@@ -18,7 +18,7 @@ Modules = [TestPackage]
 * 1
 * 2
 
-Check out [Examples](@ref examples) for a test jupyter notebook example.
+Check out Examples for a test jupyter notebook example.
 
 ## Installation
 
